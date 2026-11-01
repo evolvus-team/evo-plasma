@@ -1,33 +1,20 @@
-# evo-plasma
+# Evo Plasma
 
-Evo-Plasma is a KDE Plasma visual theme inspired by the design language of EvolvusOS. It brings the same modern, clean, and polished aesthetic to the Plasma desktop while keeping the experience minimal, fluid, and easy to use.
-
-This project is designed for users who want a refined desktop appearance with balanced contrast, rounded surfaces, and a consistent visual language across panels, widgets, dialogs, and system components.
+Evo Plasma is a KDE Plasma visual theme inspired by the design language of EvolvusOS. It brings the same modern and clean aesthetic to the Plasma desktop while keeping the original expirience of EvolvusOS26.
 
 ## Overview
 
-EvolvusOS is known for its modern and stylistic interface, and evo-plasma brings that philosophy into KDE Plasma. The goal is to make the desktop feel premium, clean, and cohesive without sacrificing usability.
+EvolvusOS is known for its innovative stylistic interface in OSWars, and Evo Plasma brings that philosophy into KDE Plasma. The goal is to make the desktop feel familiar while introducing improvements with Evo UI2.
 
-This theme is designed to be:
-- visually modern and minimal
-- comfortable for everyday use
-- consistent across KDE components
-- easy to customize and extend
+## UI
 
-## Features
+<img width="882" height="496" alt="image" src="https://github.com/user-attachments/assets/d04024ac-da83-4705-80db-d931bec5cb16" />
+<img width="660" height="497" alt="image" src="https://github.com/user-attachments/assets/196b7d59-85f7-4617-a87b-27e0d9c15f3f" />
+<img width="845" height="636" alt="image" src="https://github.com/user-attachments/assets/e06b24a5-c707-41ae-8287-155ace97c9e2" />
 
-- Plasma theme inspired by EvolvusOS
-- Clean and modern desktop appearance
-- Soft accent palette with balanced contrast
-- Rounded UI elements and consistent spacing
-- Designed for KDE Plasma environments
-- Easy to adapt for custom color preferences
+-# Please note that the project is still in progress, actual product may look and behave differently
 
-## Screenshots
 
-Add screenshots of the desktop here.
-
-![Desktop Preview](./assets/screenshot.png)
 
 ## Installation
 
@@ -49,49 +36,19 @@ Add screenshots of the desktop here.
 
 If your project includes a specific install script or packaging method, replace the generic steps above with the exact commands for that setup.
 
-## Project Structure
-
-```text
-evo-plasma/
-├── assets/          # Screenshots, icons, previews
-├── colors/          # Color scheme files
-├── plasma/          # Plasma theme files
-├── README.md        # Project documentation
-├── LICENSE          # License file
-└── ...
-```
 
 ## Requirements
 
-- KDE Plasma 5 or later
+- KDE Plasma 6 or later
 - A compatible KDE desktop environment
 - Optional: Kvantum or additional theming support depending on the style components
 
-## Customization
-
-The theme is intended to be easy to tweak. You can adjust:
-- accent colors
-- panel and widget contrast
-- window decoration styling
-- system element colors
-
-If you want a more personalized version, you can modify the style files and regenerate the theme assets.
-
-## Contributing
-
-Contributions are welcome.
-
-If you want to help improve the theme:
-- report issues
-- suggest visual improvements
-- submit color or layout tweaks
-- help improve compatibility with different KDE versions
-
 ## Credits
 
-- Inspired by the visual identity of EvolvusOS
+- Inspired by the visual identity of EvolvusOS26
 - Built for KDE Plasma users who want a modern desktop experience
+- Made by Evolvus Team
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the Apache 2.0 License. See the LICENSE file for details.
