@@ -26,7 +26,10 @@ EvolvusOS is known for its innovative stylistic interface in OSWars, and Evo Pla
 
 2. Copy the theme files into your KDE theme directories:
    - Global theme files usually go into your local KDE theme directory.
-   - Color schemes, Plasma look-and-feel files, and assets may need to be installed depending on the exact structure of the project.
+     ```
+      ./local/share/plasma/look-and-feel/
+     ```
+     in case the directory look-and-feel does not exist - create one
 
 3. Apply the theme from KDE settings:
    - Open System Settings
