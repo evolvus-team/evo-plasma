@@ -8,6 +8,13 @@ defaultHeight=1080
 enabled=true
 contrast=1.0
 saturation=1.5
+## intensity=1.0
 
 [AdaptiveTransparency]
 enabled=true
+
+[BlurBehindEffect]
+enabled=true
+
+[Settings]
+FallbackTheme=Breeze
