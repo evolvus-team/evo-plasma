@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="157" height="64" version="1.1" viewBox="0 0 157 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+                color:#232629;
+                stop-color:#232629;
+            }
+            .ColorScheme-Background {
+                color:#eff0f1;
+                stop-color:#eff0f1;
+            }</style>
+  <linearGradient id="shadow-side" gradientUnits="userSpaceOnUse">
+   <stop stop-opacity=".2" offset="0"/>
+   <stop stop-opacity=".1" offset=".33333"/>
+   <stop stop-opacity=".05" offset=".5"/>
+   <stop stop-opacity=".025" offset=".58333"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="shadow-corner" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity=".2" offset=".28571"/>
+   <stop stop-opacity=".1" offset=".52381"/>
+   <stop stop-opacity=".05" offset=".64286"/>
+   <stop stop-opacity=".025" offset=".70238"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1734" x1="16" x2="16" y1="6" y2="16" gradientUnits="userSpaceOnUse" xlink:href="#shadow-side"/>
+  <linearGradient id="linearGradient1984" x1="12" x2="2" y1="16" y2="16" gradientUnits="userSpaceOnUse" xlink:href="#shadow-side"/>
+  <linearGradient id="linearGradient4945" x1="16" x2="16" y1="14" y2="4" gradientUnits="userSpaceOnUse" xlink:href="#shadow-side"/>
+  <linearGradient id="linearGradient8667" x1="4" x2="14" y1="16" y2="16" gradientUnits="userSpaceOnUse" xlink:href="#shadow-side"/>
+  <radialGradient id="radialGradient3268" cx="95" cy="50" r="6.5" gradientTransform="matrix(0 2.1538 -2.1538 0 107.69 -202.62)" gradientUnits="userSpaceOnUse" xlink:href="#shadow-corner"/>
+  <radialGradient id="radialGradient3268-6" cx="93.143" cy="50" r="6.5" gradientTransform="matrix(0 2.1538 -2.1538 0 107.69 -202.62)" gradientUnits="userSpaceOnUse" xlink:href="#shadow-corner"/>
+ </defs>
+ <rect id="hint-tile-center" width="5" height="5" fill="#f60"/>
+ <g id="top" transform="translate(6,10)" fill="currentColor" opacity=".15">
+  <rect class="ColorScheme-Background" width="32" height="6" opacity=".85"/>
+  <path class="ColorScheme-Background" d="m0 0v1h32v-1z" opacity=".5"/>
+ </g>
+ <g id="bottom" transform="translate(6,48)" fill="currentColor" opacity=".15">
+  <rect class="ColorScheme-Background" width="32" height="6" opacity=".85"/>
+  <path class="ColorScheme-Background" d="m0 5v1h32v-1z" opacity=".5"/>
+ </g>
+ <g id="left" transform="translate(0,16)" fill="currentColor">
+  <rect class="ColorScheme-Background" width="6" height="32" opacity=".15"/>
+  <path class="ColorScheme-Background" d="m0 32h1v-32h-1z" opacity=".05"/>
+ </g>
+ <g id="right" transform="translate(38,16)" fill="currentColor">
+  <rect class="ColorScheme-Background" width="6" height="32" opacity=".15"/>
+  <path class="ColorScheme-Background" d="m5 32h1v-32h-1z" opacity=".05"/>
+ </g>
+ <g id="center" transform="translate(6,16)">
+  <rect class="ColorScheme-Background" width="32" height="32" fill="currentColor" opacity=".15"/>
+ </g>
+ <g id="topleft" transform="translate(0,10)">
+  <path class="ColorScheme-Background" d="m0 6h6v-6c-4 0-6 2-6 6z" fill="currentColor" opacity=".15"/>
+ </g>
+ <g id="topright" transform="translate(38,10)">
+  <path class="ColorScheme-Background" d="m0 0v6h6c0-4-2-6-6-6z" fill="currentColor" opacity=".15"/>
+ </g>
+ <g id="bottomleft" transform="translate(0,48)">
+  <path class="ColorScheme-Background" d="m6 6v-6h-6c0 4 2 6 6 6z" fill="currentColor" opacity=".15"/>
+ </g>
+ <g id="bottomright" transform="translate(38,48)" opacity=".15">
+  <path class="ColorScheme-Background" d="m0 6v-6h6c0 4-2 6-6 6z" fill="currentColor" opacity=".85"/>
+ </g>
+ <g fill="#f0f">
+  <rect id="hint-top-margin" x="20" y="10" width="4" height="4"/>
+  <rect id="hint-bottom-margin" x="20" y="50" width="4" height="4"/>
+  <rect id="hint-right-margin" x="40" y="30" width="4" height="4"/>
+  <rect id="hint-left-margin" y="30" width="4" height="4"/>
+ </g>
+ <g fill="#0f0">
+  <rect id="hint-top-inset" x="20" y="10" width="4" height="1e-8"/>
+  <rect id="hint-bottom-inset" x="20" y="54" width="4" height="1e-8"/>
+  <rect id="hint-left-inset" y="30" width="1e-8" height="4"/>
+  <rect id="hint-right-inset" x="44" y="30" width="1e-8" height="4"/>
+ </g>
+ <rect id="mask-top" x="119" y="10" width="32" height="6"/>
+ <rect id="mask-center" x="119" y="16" width="32" height="32"/>
+ <rect id="mask-bottom" transform="scale(1,-1)" x="119" y="-54" width="32" height="6"/>
+ <rect id="mask-left" x="113" y="16" width="6" height="32"/>
+ <rect id="mask-right" x="151" y="16" width="6" height="32"/>
+ <path id="mask-topleft" d="m114 16h-1 6v-6 1c-3.4575-0.0052-4.9633 1.5725-5 5z"/>
+ <g id="shadow-center" transform="translate(63,16)">
+  <rect width="32" height="32" fill-opacity=".001" opacity=".001"/>
+ </g>
+ <g id="shadow-topleft" transform="rotate(180,31.5,8)">
+  <path d="m0 6v-6h6c0 4-2 6-6 6z" fill-opacity=".0039216" opacity=".001"/>
+  <path d="m6 0c0 4-2 6-6 6v10h3c7.1797 0 13-5.8203 13-13v-3z" fill="url(#radialGradient3268-6)" fill-rule="evenodd"/>
+ </g>
+ <g id="shadow-top" transform="translate(63)">
+  <rect id="st" width="32" height="10" fill="url(#linearGradient4945)"/>
+  <rect y="10" width="32" height="6" fill-opacity=".0039216" fill-rule="evenodd" opacity=".001"/>
+ </g>
+ <g id="shadow-bottom" transform="translate(63,48)">
+  <rect width="32" height="6" fill-opacity=".0039216" fill-rule="evenodd" opacity=".001"/>
+  <rect id="sb" y="6" width="32" height="10" fill="url(#linearGradient1734)"/>
+ </g>
+ <path d="m63 10h32c4 0 6 2 6 6v32c0 4-2 6-6 6h-32c-4 0-6-2-6-6v-32c0-4 2-6 6-6z" fill="#ff0" stroke-linecap="round" stroke-width="2"/>
+ <g id="shadow-left" transform="translate(47,16)">
+  <rect id="sl" width="10" height="32" fill="url(#linearGradient1984)"/>
+  <rect x="10" width="6" height="32" fill-opacity=".0039216" fill-rule="evenodd" opacity=".001"/>
+ </g>
+ <g id="shadow-right" transform="translate(95,16)">
+  <rect width="6" height="32" fill-opacity=".0039216" fill-rule="evenodd" opacity=".001"/>
+  <rect id="sr" x="6" width="10" height="32" fill="url(#linearGradient8667)"/>
+ </g>
+ <g fill="#f0f">
+  <rect id="shadow-hint-top-margin" x="76" width="2" height="10"/>
+  <rect id="shadow-hint-bottom-margin" x="76" y="54" width="2" height="10"/>
+  <rect id="shadow-hint-right-margin" x="101" y="33" width="10" height="2"/>
+  <rect id="shadow-hint-left-margin" x="47" y="29" width="10" height="2"/>
+ </g>
+ <g fill="#0f0">
+  <rect id="shadow-hint-top-inset" x="80" width="2" height="10"/>
+  <rect id="shadow-hint-bottom-inset" x="80" y="54" width="2" height="10"/>
+  <rect id="shadow-hint-right-inset" x="101" y="29" width="10" height="2"/>
+  <rect id="shadow-hint-left-inset" x="47" y="33" width="10" height="2"/>
+ </g>
+ <g id="shadow-bottomright" transform="translate(95,48)">
+  <path d="m0 6v-6h6c0 3.9986-2.0195 6-6 6z" fill-opacity=".0039216" opacity=".001"/>
+  <path d="m6 0c0 4-2 6-6 6v10h3c7.1797 0 13-5.8203 13-13v-3z" fill="url(#radialGradient3268)" fill-rule="evenodd"/>
+ </g>
+ <g id="shadow-bottomleft" transform="matrix(-1,0,0,1,63,48)">
+  <path d="m3 6h-3v-6h6v3c0 1.6569-1.3431 3-3 3z" fill-opacity=".0039216" opacity=".001"/>
+  <path d="m6 0c0 3.9986-2.0048 6-6 6v10h3c7.1797 0 13-5.8203 13-13v-3z" fill="url(#radialGradient3268)" fill-rule="evenodd"/>
+ </g>
+ <g id="shadow-topright" transform="matrix(1,0,0,-1,95,16)">
+  <path d="m3 6h-3v-6h6v3c0 1.6569-1.3431 3-3 3z" fill-opacity=".0039216" opacity=".001"/>
+  <path d="m6 0c0 3.9881-2.0256 6-6 6v10h3c7.1797 0 13-5.8203 13-13v-3z" fill="url(#radialGradient3268-6)" fill-rule="evenodd"/>
+ </g>
+ <rect id="thick-center" class="ColorScheme-Background" x="19" y="75" width="32" height="32" color="#eff0f1" fill="currentColor" stop-color="#eff0f1"/>
+ <g fill="#800080">
+  <rect id="thick-hint-right-margin" transform="rotate(90)" x="95" y="-56" width="4" height="8"/>
+  <rect id="thick-hint-left-margin" transform="rotate(90)" x="95" y="-20" width="4" height="8"/>
+  <rect id="thick-hint-top-margin" x="38" y="69" width="4" height="8"/>
+  <rect id="thick-hint-bottom-margin" x="39" y="105" width="4" height="8"/>
+ </g>
+ <path id="mask-topright" d="m156 16h1-6v-6 1c3.2326 0.0063 5.0208 1.8244 5 5z"/>
+ <path id="mask-bottomright" d="m156 48h1-6v6-1c3.5309-0.03156 5-1.5542 5-5z"/>
+ <path id="mask-bottomleft" d="m114 48h-1 6v6-1c-3.4575 0.0052-4.9841-1.5802-5-5z"/>
+ <text x="118" y="1.9579079" fill="#000000" font-family="'Noto Sans'" font-size="1.2522px" stroke-linecap="round" stroke-width="5.7287" xml:space="preserve"><tspan x="118" y="1.9579079">The corners of the mask are 1px  smaller because they</tspan><tspan x="118" y="3.6373272">are not antialiased, whereas the svg corners are; if the</tspan><tspan x="118" y="5.3167462">mask is the same size of the svg, then, some of the corner</tspan><tspan x="118" y="6.9961658">pixels of the mask will be visible even though they should</tspan><tspan x="118" y="8.6755848">be covered by the svg.</tspan></text>
+</svg>

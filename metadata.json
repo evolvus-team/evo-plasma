@@ -105,7 +105,7 @@
         "Id": "evo-plasma",
         "License": "GPL v3",
         "Name": "Evo Plasma",
-        "Version": "1.0.1",
+        "Version": "1.0.3",
         "Website": "https://github.com/evolvus-team",
         "ServiceTypes": [
             "Plasma/LookAndFeel"
